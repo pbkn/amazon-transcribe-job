@@ -1,0 +1,5 @@
+/.idea
+/target/
+/.aws-sam
+# Project exclude paths
+/transcription-job-invokation/target/
